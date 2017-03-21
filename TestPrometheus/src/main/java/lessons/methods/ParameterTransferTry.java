@@ -1,6 +1,7 @@
 package lessons.methods;
 // Пример передачи параметров в метод
-public class Test {
+
+public class ParameterTransferTry {
     public static void main(String[] args) {
         int intPrimitive = 3;
         // Обратите внимание, что метор toString переопределен, для удобного вывода

@@ -3,7 +3,7 @@ package week02.practic.zad02;
 public class MatrixPrint {
 
     public static void main(String args[]) {
-        int dim = 5;
+        int dim = 9;
         int[][] arr = new int[dim][dim];
 
         for (int i = 0; i < dim; i++) {
